@@ -31,7 +31,7 @@ ncbi = NCBITaxa()
 mastercsvfile='AlgaePHA_CAZy_Families_67131_entries.csv'
 mastercsvdf=pd.read_csv(mastercsvfile, header=0, index_col=0)
 
-Entrez.email = 'daniel.leadbeater@york.ac.uk'
+Entrez.email = '***'
 
 ####taxonomy_filters####
 #target_taxa_families=['Streptomycetaceae','Nocardiaceae','Streptococcaceae','Bacillaceae','Paenibacillaceae', 'Alteromonadaceae','Halomonadaceae','Xanthomonadaceae','Vibrionaceae','Pseudomonadaceae','Bradyrhizobiaceae','Hyphomicrobiaceae','Rhizobiaceae','Rhodospirillaceae','Sphingomonadaceae','Caulobacteraceae','Rhodobacteraceae','Burkholderiaceae','Oxalobacteraceae','Comamonadaceae']
