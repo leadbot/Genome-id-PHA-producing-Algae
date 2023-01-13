@@ -870,7 +870,7 @@ import urllib
 import os
 import json
 import time
-Entrez.email='daniel.leadbeater@york.ac.uk'
+Entrez.email='***'
 UID_gb_axn_dict={}
 num_retries=4
 completed_ids=[]
