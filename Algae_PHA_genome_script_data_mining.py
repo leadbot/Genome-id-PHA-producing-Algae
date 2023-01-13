@@ -731,7 +731,7 @@ import urllib
 import os
 import json
 import time
-Entrez.email='daniel.leadbeater@york.ac.uk'
+Entrez.email='***'
 ftpdict={}
 N50dict={}
 assemblykeydict={}
